@@ -1,0 +1,2 @@
+- Install JDK
+- Install Eclipse with option for Web developer
