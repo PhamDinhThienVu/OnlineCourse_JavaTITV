@@ -34,3 +34,15 @@ Double
 # Lession 05
 - Create simple project with name J05_FinalInJava
 - Const variable in Java - "FINAL"
+
+# Lession 06
+- How to comment in java
+
+# Lession 07
+- How to debugg and fix bug in java by using Eclipse
+
+# Lession 08
+- Get input in java
+- Create project J06_InputInJava
+
+
