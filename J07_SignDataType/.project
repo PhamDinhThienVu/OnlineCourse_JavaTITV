@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>J05_FinalInJava</name>
+	<name>J07_SignDataType</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1704466965818</id>
+			<id>1704466965850</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
